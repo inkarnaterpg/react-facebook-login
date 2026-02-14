@@ -1,6 +1,8 @@
 node_modules/
+dist/
 *sublime*
 .DS_store
 .module-cache
 *.log
 yarn.lock
+.idea

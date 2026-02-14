@@ -1,6 +1,9 @@
-# React Facebook Login - [![Build Status](https://travis-ci.org/keppelen/react-facebook-login.svg?branch=master)](https://travis-ci.org/keppelen/react-facebook-login)
+# React Facebook Login
+[![NPM version](https://img.shields.io/npm/v/@inkarnaterpg/is-hotkey.svg)](https://www.npmjs.org/package/@inkarnaterpg/react-facebook-login)
 
 > A Component React for Facebook Login
+> 
+> This fork is updated to output as ESM to fix how Rolldown incorrectly determines whether this package is a CJS or ESM package.
 
 ## Getting Started
 
